@@ -9,4 +9,4 @@ layout: default
 ### Github sayfasıdır
 
 
-![OKU](https://https://www.osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
+![OKU](https://www.osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
